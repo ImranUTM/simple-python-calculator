@@ -22,13 +22,3 @@ if __name__ == "__main__":
     print("Subtraction:", subtract(a, b))
     print("Multiplication:", multiply(a, b))
     print("Division:", divide(a, b))
-
----
-
-### 🚀 Steps to Upload:
-1. Create a new GitHub repo (e.g., `simple-python-calculator`).
-2. On your computer:
-```bash
-mkdir simple-python-calculator
-cd simple-python-calculator
-touch calculator.py README.md
